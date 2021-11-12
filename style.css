@@ -9,8 +9,8 @@
     padding: 20px;
 }
 .product-section {
-    padding-top: 162px;
-    padding-bottom: 163px;
+    padding-top: 138px;
+    padding-bottom: 138px;
 }
 footer p{
     color: white;
@@ -48,18 +48,34 @@ footer p{
     border-radius: 5px;
     margin-right: 8px;
 }
-.firstColor {
+#firstColor {
     background-color: #565681;
 }
-.secondColor {
+#secondColor {
     background-color: #8A5362;
 }
-.thirdColor {
+#thirdColor {
     background-color: black;
 }
-.fourColor {
+#fourColor {
     background-color: #CA3D22;
 }
-.fiveColor {
+#fiveColor {
     background-color: #E9C7BE;
+}
+.features a {
+    background-color: #EFEFEF;
+    color: black;
+    font-size: 13px;
+    padding: 10px 20px 10px 20px;
+    letter-spacing: 1px;
+    border-radius: 5px;
+}
+.buySec a {
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    padding: 10px 27px 10px 27px;
+    letter-spacing: 1px;
+    border-radius: 5px;
 }
