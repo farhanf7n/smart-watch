@@ -50,18 +50,23 @@ footer p{
 }
 #firstColor {
     background-color: #565681;
+    cursor: pointer;
 }
 #secondColor {
     background-color: #8A5362;
+    cursor: pointer;
 }
 #thirdColor {
     background-color: black;
+    cursor: pointer;
 }
 #fourColor {
     background-color: #CA3D22;
+    cursor: pointer;
 }
 #fiveColor {
     background-color: #E9C7BE;
+    cursor: pointer;
 }
 .features a {
     background-color: #EFEFEF;
@@ -78,4 +83,11 @@ footer p{
     padding: 10px 27px 10px 27px;
     letter-spacing: 1px;
     border-radius: 5px;
+}
+
+.time-part p {
+    position: relative;
+    bottom: 191px;
+    left: 132px;
+    font-size: 20px;
 }
