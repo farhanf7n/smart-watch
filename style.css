@@ -84,10 +84,36 @@ footer p{
     letter-spacing: 1px;
     border-radius: 5px;
 }
-
-.time-part p {
+#time-part p {
     position: relative;
     bottom: 191px;
     left: 132px;
     font-size: 20px;
+}
+.fa-heartbeat {
+    font-size: 39px;
+    color: red;
+    position: relative;
+    bottom: 238px;
+    left: 152px;
+}
+#showHr {
+    position: relative;
+    bottom: 161px;
+    left: 147px;
+    font-size: 25px;
+}
+#hr-part {
+    display: none;
+}
+#aod-part {
+    display: none;
+}
+#aod-part img {
+    position: absolute;
+    bottom: 157px;
+    width: 133px;
+    height: 151px;
+    left: 120px;
+    border-radius: 16px;
 }
